@@ -12,8 +12,8 @@ namespace WaspHomeWork3
             Audio audio1 = new Audio("Селяви альбом", "ХипХоп", "Моргенштерн", "Андрюха", 666);
             
             DVD dvd = new DVD("Ходячий замок", "Аниме", "Хаяо Миядзаки", "Крутая кампания", 240);
-            DVD dvd1 = new DVD("Джо-Джо", "Джо-Джо", "Джо-Джо", "ОРЭОРЭОРЭОРЭ", 24);
-            DVD dvd2 = new DVD("Наруто", "Аниме", "Крутой", "терияки", 22);
+            DVD dvd1 = new DVD("Джо-Джо", "Джо-Джо", "Джо-Джо", "ОРЭОРЭОРЭОРЭ", 9999999);
+            DVD dvd2 = new DVD("Наруто", "Аниме", "Крутой", "терияки", 240);
                 
             blackStart.Audios = blackStart + audio;
             blackStart.Audios = blackStart + audio1;
